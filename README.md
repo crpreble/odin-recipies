@@ -1,2 +1,2 @@
 # odin-recipies
-recipies webpage project
+a small site consisting of a few recipies on different pages
